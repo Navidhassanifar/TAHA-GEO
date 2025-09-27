@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of GeoConvert: Coordinate Conversion Tool",
+  "description": "A professional, bilingual (Persian-English) web application for geologists and researchers to perform accurate coordinate conversions between DMS (Degrees, Minutes, Seconds), DD (Decimal Degrees), and UTM (Universal Transverse Mercator). Features include a map viewer, conversion history, and an educational section.",
+  "requestFramePermissions": []
+}
